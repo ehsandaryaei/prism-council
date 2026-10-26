@@ -2,7 +2,6 @@
 
 **Pressure-test a decision with five deliberately opposed AI advisors, then get one direct verdict.**
 
-[![Validate](https://github.com/ehsandaryaei/prism-council/actions/workflows/validate.yml/badge.svg)](https://github.com/ehsandaryaei/prism-council/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/format-Agent%20Skills-6f42c1)](https://agentskills.io/specification)
 

@@ -11,7 +11,7 @@ First public release.
 - Two execution modes: isolated subagents when the host supports them, and a labeled single-context fallback.
 - `--single` flag to force single-context mode.
 - Optional Claude Code adapter (`adapters/claude-code/`) that pins seats to Sonnet and restricts their tools.
-- Bilingual README (English and Persian), a sample run, a validation script, and a CI workflow.
+- Bilingual README (English and Persian), a sample run, and a validation script.
 
 ### Changed (from the private `council` skill this release is based on)
 - Seat and Outsider rules now live inside the prompts, so the skill no longer depends on Claude-only agent types.

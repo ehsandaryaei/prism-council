@@ -25,7 +25,7 @@ python scripts/check_repo.py
 npx skills add . --list
 ```
 
-CI runs the same checks. Add a line to [CHANGELOG.md](CHANGELOG.md) under an `Unreleased` heading.
+Add a line to [CHANGELOG.md](CHANGELOG.md) under an `Unreleased` heading.
 
 ## Reporting bugs and ideas
 
