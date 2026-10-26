@@ -1,0 +1,21 @@
+name: Idea or improvement
+description: Suggest a change to the seats, the workflow, an adapter, or the docs.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true
+  - type: textarea
+    id: cost
+    attributes:
+      label: Effect on token cost or portability
+      description: Does it add subagent calls, lengthen SKILL.md, or depend on one host?

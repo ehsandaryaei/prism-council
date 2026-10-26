@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local test installs created by `npx skills`
+.agents/
+.claude/
+skills-lock.json
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets never belong here
+.env
+.env.*
